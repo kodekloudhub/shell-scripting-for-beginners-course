@@ -1,6 +1,8 @@
 # Course Introduction
   - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/21484893)
 
+#### Shell scripts in linux are easy to use time saving solution for automating repetative (or) complex set of tasks in a system administrator daily life.
+
 ## In this section, we will take a look at the below.
 - Why shell scripts?
 - Who is this for?
@@ -17,8 +19,6 @@
 - Command Line Basics
 - No Programming knowledge required
    
-Shell scripts in linux are easy to use time saving solution for automating repetative (or) complex set of tasks in a system administrator daily life.
-  
 ## Why Shell Scripts?
 - Automate Daily Backups
 - Automate Installation and Patching of Software on multiple servers 
