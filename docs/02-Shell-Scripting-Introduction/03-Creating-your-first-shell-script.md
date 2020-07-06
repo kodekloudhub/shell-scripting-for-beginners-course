@@ -7,7 +7,7 @@ To Create a shell script name create-and-launch-script.sh
 ```
 $ vi create-and-launch-script.sh
 ```
-![create-sh](../../images/create-sh.PNG)
+![create-script](../../images/create-script.PNG)
 
 ## Run script as command
 - There are different ways to execute a shell script
