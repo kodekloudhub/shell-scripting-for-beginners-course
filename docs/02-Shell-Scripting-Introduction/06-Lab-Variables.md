@@ -32,7 +32,7 @@ Solutions to practice test - variables
   echo "Hi $user_name, Welcome to xFusionCorp Industries. Weand the rest of the management are glad to have you on board"
   ```
   
-- Variable name should not have a dash. Change it to uptime
+- Variable name should not have a dashes. Correct it.
   ```
   bob@caleston-lp10:~$ cat print-uptime.sh
   uptime=$(uptime)
