@@ -49,7 +49,7 @@ In this section, we will take a look at "Arithmetic Operations"
   $ echo $(( A++ ))
   $ echo $(( A-- ))
   ```
-  ![bp](../../images/bp.PNG)
+  ![dp](../../images/dp.PNG)
   
 ## bc
 - expr and "double parentheses" only return decimal output, they do not support floating values.
