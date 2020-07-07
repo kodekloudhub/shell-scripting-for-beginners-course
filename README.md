@@ -1,6 +1,6 @@
 # The Linux Basics Course
 
-These are notes from the [Shell Script for Beginners](https://kodekloud.com/courses/shell-scripts-for-beginners/) hosted on KodeKloud.
+These are notes from the [Shell Scripting for Beginners](https://kodekloud.com/courses/shell-scripts-for-beginners/) hosted on KodeKloud.
 
 # Sections
 
