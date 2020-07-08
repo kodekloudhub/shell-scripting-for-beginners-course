@@ -58,7 +58,10 @@ The KodeKloud e-commerce website is a fictional online store that sells electron
      ```
      $ mysql < db-load-script.sql
      ```
-     
+  
+  ![ecomm1](../../images/ecomm1.PNG)
+  
+  
    - Install httpd and php
      ```
      $ sudo yum install -y httpd php php-mysql
@@ -92,11 +95,7 @@ The KodeKloud e-commerce website is a fictional online store that sells electron
      $ curl http://localhsot
      ```
    
-  ![ecomm1](../../images/ecomm1.PNG)
   
   ![ecomm2](../../images/ecomm2.PNG)
   
-  
-
-
-
+ 
