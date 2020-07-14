@@ -19,3 +19,8 @@ These are notes from the [Shell Scripting for Beginners](https://kodekloud.com/c
   - [09-Read-Inputs](docs/02-Shell-Scripting-Introduction/09-Read-Inputs.md)
   - [11-Arithmetic-Operations](docs/02-Shell-Scripting-Introduction/11-Arithmetic-Operations.md)
   - [12-Lab-Arithmetic-Operations](docs/02-Shell-Scripting-Introduction/12-Lab-Arithmetic-Operations.md)
+
+- [05-Project-E-Commerce-Application](docs/05-Project-E-Commerce-Application)
+  - [01-E-Commerce-Application-Introduction](docs/05-Project-E-Commerce-Application/01-E-Commerce-Application-Introduction.md)
+  - [02-Demo-E-Commerce-Application](docs/05-Project-E-Commerce-Application/02-Demo-E-Commerce-Application.md)
+  - [03-Project-Hands-On](docs/05-Project-E-Commerce-Application/03-Project-Hands-On.md)
