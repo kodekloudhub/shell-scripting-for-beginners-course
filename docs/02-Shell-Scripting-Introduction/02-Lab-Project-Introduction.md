@@ -3,9 +3,11 @@
 
 #### Solutions to the Practice test - Project Introduction
 - Rocket commands have been configured on your system. Let's test it out. Run the rocket-ls command to list all rockets.
+  <details>
   ```
   $ rocket-ls
   ```
+  </details>
 - Run mkdir /home/bob/<directorynamegoeshere>
   ```
   $ mkdir /home/bob/lunar-mission
