@@ -4,6 +4,9 @@
 Solutions to practice test - Arithmetic Operations
 
 - Check the solution at /tmp/assets/calculation-answer.sh
+
+  <details>
+  
   ```
   bob@caleston-lp10:~$ cat calculation.sh
   A=20
@@ -17,7 +20,12 @@ Solutions to practice test - Arithmetic Operations
   ```
   $ bash calculation.sh
   ```
+  </details>
+  
 - Check the solution at /tmp/assets/calculation-answer-2.sh
+  
+  <details>
+  
   ```
   bob@caleston-lp10:~$ cat calculation.shA=$1
   B=$2
@@ -27,14 +35,23 @@ Solutions to practice test - Arithmetic Operations
   echo "Product is $(( A * B))"
   echo "Quotient is $(( A / B))"
   ```
+  </details>
+  
 - Check the solution at /tmp/assets/calculate-price.sh
+  
+  <details>
+  
   ```
   bob@caleston-lp10:~$ cat calculate-price.sh
   price=$(( $1 * $2 ))
 
   echo "The total price for items is ${price} dollars"
   ```
+  </details>
+  
 - The "*" should be escaped as "\*" for multiplication using expr statement.
+  
+  <details>
   ```
   $ cat calculate-total-apples.sh
     baskets=4
@@ -42,7 +59,12 @@ Solutions to practice test - Arithmetic Operations
     total_apples=`expr $baskets \* $apples_per_basket`
     echo "Total Apples = $total_apples"
   ```
+  </details>
+  
 - Answer script: /tmp/assets/calculate-average-answer.sh
+  
+  <details>
+  
   ```
   $ cat calculate-average.sh
     num1=$1
@@ -51,3 +73,4 @@ Solutions to practice test - Arithmetic Operations
     sum=$(( num1 + num2 + num3 ))
     average=$(echo "$sum / 3" | bc -l)
   ```
+  </details>
