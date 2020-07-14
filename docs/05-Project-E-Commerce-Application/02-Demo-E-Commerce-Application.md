@@ -7,4 +7,5 @@ Demo
   $ sudo yum install -y git
   $ sudo git clone https://github.com/kodekloudhub/learning-app-ecommerce.git
   ```
-
+  
+#### Take me to [Instructions](https://github.com/kodekloudhub/learning-app-ecommerce/blob/master/README.md)
