@@ -3,6 +3,9 @@
   
 Solutions to the practice test
 - Create a script
+
+  <details>
+  
   ```
   vi create-and-launch-rocket
   
@@ -16,20 +19,40 @@ Solutions to the practice test
   rocket-status lunar-mission
   
   ```
+  </details>
+  
 - Run the command chmod +x create-and-launch-rocket
+
+  <details>
+  
   ```
   $ chmod +x create-and-launch-rocket
   ```
+  </details>
+  
 - Run the command ./create-and-launch-rocket or bash create-and-launch-rocket
+  
+  <details>
+  
   ```
   $ ./create-and-launch-rocket (or)
   $ bash create-and-launch-rocket
   ```
+  </details>
+  
 - Run chmod +x /home/bob/say_hello.sh to add execute permissions to the script.
+  
+  <details>
+  
   ```
   $ chmod +x /home/bob/say_hello.sh
   ```
+  </details>
+  
 - The solution script is located at /tmp/assets/create-directory-structure-answer.sh Check it out.
+  
+  <details>
+  
   ```
   $ vi create-directory-structure.sh
   
@@ -42,7 +65,12 @@ Solutions to the practice test
     uptime
     
   ```
+  </details>
+  
 - Check the cd countries line within the script. It changes the PWD to within the countries folder. From there you do not need to specify countries within the path. To solve this, either remove the cd statement and modify the rest of the script to use countries in the path, or remove countries in the path while creating capital.txt files.
+  
+  <details>
+  
   ```
   vi create-directory-structure-v2.sh
   
@@ -56,3 +84,4 @@ Solutions to the practice test
 
   uptime
   ```
+  </details>
