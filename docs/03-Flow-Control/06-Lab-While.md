@@ -2,7 +2,7 @@
 
   - Lets do some practical with [While Loop](https://kodekloud.com/courses/shell-scripts-for-beginners/lectures/21506318)
 
-  1. Run the below command for the solution
+  1. Solution is given below
 
      <default>
     
@@ -37,7 +37,7 @@
 
      </default>
 
-  2. Run the below command for the solution
+  2. Solution is given below
 
      <default>
      
@@ -52,7 +52,7 @@
   
      </default>
 
-  3. Run the below command for the solution
+  3. Solution is given below
 
      <default>
  
@@ -62,7 +62,7 @@
    
      </default>
 
-  4. Run the below command for the solution
+  4. Solution is given below
 
      <default>
  

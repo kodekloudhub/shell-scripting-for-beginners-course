@@ -3,7 +3,7 @@
   Take me to the lab [Case Statement](https://kodekloud.com/courses/1029419/lectures/21506323)
 
 
-  1. Run this command for the solution
+  1. Solution is given below
 
      <details>
 
@@ -28,7 +28,7 @@
      ```
      </details>
 
-  2. Run this command for the solution
+  2. Solution is given below
 
      <details>
 
@@ -66,7 +66,7 @@
      ```
      </details>
 
-  3. Run this command for the solution
+  3. Solution is given below
 
      <details>
 
@@ -111,7 +111,7 @@
      ```
      </details>
 
-  4. Run this command for the solution
+  4. Solution is given below
 
      <details>
 
@@ -164,7 +164,7 @@
      ```
      </details>
 
-  5. Run this command for the solution
+  5. Solution is given below
 
      <details>
 
