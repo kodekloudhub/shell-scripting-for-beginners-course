@@ -1,0 +1,24 @@
+# Exit Codes
+
+  - Lets Understand [Exit-Codes](https://kodekloud.com/courses/1029419/lectures/21506385)
+
+  - In this lecture we will understand the Exit-Codes and different types of Exit Codes.
+
+    ![e0](../../images/e0.PNG)
+
+
+    ![e1](../../images/e1.PNG)
+
+
+  - Command to chech the exit code of the command **`echo $?`**
+
+  - For example to check the status of command **`rocket-status`** use
+
+    ![rs](../../images/rs.PNG)
+
+
+  - if the launch of the rocket is successfull then exit code should be **`zero`** and if it fails it should be a **`non-zero`** value
+
+  - If the launch of the rocket is failed then script should return 1 this can be modified in the script to retrun a exit-code.
+
+    ![exit](../../images/exit.PNG)
