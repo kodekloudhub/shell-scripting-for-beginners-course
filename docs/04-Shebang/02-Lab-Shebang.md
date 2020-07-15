@@ -1,20 +1,20 @@
 # Lab Shebang
 
   - Take me to the [Lab](https://kodekloud.com/courses/1029419/lectures/21506380)
-  
+
 
   1. Solution is given below
     
      <details>
        
-      script ./loop.sh  **`Print Numbers from 31 to 40`**
+      **`Print Numbers from 31 to 40`**
      </details>
 
   2. Solution is given below
     
      <details>
 
-      script ./loop.sh  **`Prints {31..40}`**
+      **`Prints {31..40}`**
      </details>
 
   3. Solution is given below
