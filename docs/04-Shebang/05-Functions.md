@@ -15,11 +15,11 @@
 
   - When to use Functions?
 
-    • Break up large script that performs many different tasks:
-    • Installing packages
-    • Adding users
-    • Configuring firewalls
-    • Perform Mathematical calculations
+    - Break up large script that performs many different tasks
+    - Installing packages
+    - Adding users
+    - Configuring firewalls
+    - Perform Mathematical calculations
 
 
   - Function to add two numbers, returning the value of addition to a variable called **`sum`** and outputing the exit code of previouly run command

@@ -6,6 +6,7 @@
 
      <details>
 
+
       ```
       Exit Status - 0
       ```
@@ -14,6 +15,7 @@
   1. Solution is given below
 
      <details>
+
 
       ```
       Exit Status - 127
@@ -24,6 +26,7 @@
 
      <details>
 
+
       ```
       Exit Status - 126
       ```
@@ -32,6 +35,7 @@
   1. Solution is given below
 
      <details>
+     
 
       ```
       mission_name=$1

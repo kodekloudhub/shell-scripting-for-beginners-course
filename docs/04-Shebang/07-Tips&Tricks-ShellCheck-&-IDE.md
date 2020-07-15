@@ -17,11 +17,10 @@
   
       yum install shellcheck
   
-      OR
-  
-      [ShellCheck-Github](https://github.com/koalaman/shellcheck)
       ```
-  
+      [ShellCheck-Github](https://github.com/koalaman/shellcheck)
+
+      
       ![s](../../images/s.PNG)
 
     
@@ -37,7 +36,7 @@
     ### Editors 
 
     - Visual Studio Code and Atom can be used as an editor tool.
-    
+
 
     ### Styleguide
 
