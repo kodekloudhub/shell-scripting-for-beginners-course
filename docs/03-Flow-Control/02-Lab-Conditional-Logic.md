@@ -3,7 +3,7 @@
   - Take me to the [Lab](https://kodekloud.com/courses/1029419/lectures/21506295)
 
 
-  1. Run below command for solution
+  1. See the solution
     
      <details>
     
@@ -31,7 +31,7 @@
       ```
       </details>
 
-  2. Run below command for solution
+  2. See the solution
     
      <details>
     
@@ -44,7 +44,7 @@
       ```
       </details>
 
-  3. Run below command for solution
+  3. See the solution
     
      <details>
     
@@ -57,7 +57,7 @@
       ```
       </details>
 
-  4. Run below command for solution
+  4. See the solution
     
      <details>
     
