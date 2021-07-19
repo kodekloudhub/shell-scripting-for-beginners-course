@@ -1,5 +1,5 @@
 # Variables
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/21505702)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/variables/)
 
 In this section, we will take a look at variables in shell script.
 

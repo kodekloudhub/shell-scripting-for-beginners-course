@@ -1,6 +1,6 @@
 # Lab while
 
-  - Lets do some practical with [While Loop](https://kodekloud.com/courses/shell-scripts-for-beginners/lectures/21506318)
+  - Lets do some practical with [while Loop](https://kodekloud.com/topic/labs-while-loops/)
 
   1. Solution is given below
 

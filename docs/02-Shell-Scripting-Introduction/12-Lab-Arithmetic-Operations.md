@@ -1,5 +1,5 @@
 # Lab - Arithmetic Operations
-  - Take me to [Practice Test](https://kodekloud.com/courses/1029419/lectures/21506122)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-airthmetic-operations-2/)
   
 Solutions to practice test - Arithmetic Operations
 

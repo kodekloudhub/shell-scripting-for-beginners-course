@@ -1,6 +1,6 @@
 # Lab For Loop
 
-  - Take me to the [Lab](https://kodekloud.com/courses/1029419/lectures/21506303)
+  - Take me to the [Lab](https://kodekloud.com/topic/lab-for-loops/)
 
 
   1. Solution is given below

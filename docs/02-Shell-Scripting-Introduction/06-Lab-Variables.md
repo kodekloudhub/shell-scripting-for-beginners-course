@@ -1,5 +1,5 @@
 # Lab - Variables
-  - Take me to [Practice Test](https://kodekloud.com/courses/1029419/lectures/21505714)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-variables-5/)
   
 Solutions to practice test - variables
 

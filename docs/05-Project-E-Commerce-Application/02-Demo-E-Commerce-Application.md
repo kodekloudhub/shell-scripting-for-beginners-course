@@ -1,5 +1,6 @@
 # Demo - E-Commerce Application
-  - Take me to [E-Commerce Application Project Demo](https://kodekloud.com/courses/1029419/lectures/22122808)
+
+  - Take me to [E-Commerce Application Project Demo](https://kodekloud.com/topic/demo-kodekloud-e-commerce-application/)
 
 Demo
 - Install git and access the application code at github.

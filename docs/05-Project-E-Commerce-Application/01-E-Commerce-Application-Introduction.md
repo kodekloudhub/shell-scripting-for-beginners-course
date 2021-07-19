@@ -1,5 +1,6 @@
 # E-Commerce-Application-Introduction
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/22122753)
+
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/project-kodekloud-e-commerce-application-3/)
 
 In this section, we will now introduced to a project that we will work on. 
 - We will deploy the kodekloud e-commerce website.

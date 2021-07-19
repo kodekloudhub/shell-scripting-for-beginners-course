@@ -1,6 +1,6 @@
 # Conditional Logic
 
-  - Lets Understand [Conditional-Logic](https://kodekloud.com/courses/1029419/lectures/21506294)
+  - Lets understand [Conditional-Logic](https://kodekloud.com/topic/conditional-logic/)
 
     #### Create and Launch Rocket
 

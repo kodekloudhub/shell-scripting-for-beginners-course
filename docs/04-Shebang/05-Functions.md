@@ -1,6 +1,6 @@
 # Functions
 
-  - Lets Understand [Functions](https://kodekloud.com/courses/1029419/lectures/22172708)
+  - Lets understand [Functions](https://kodekloud.com/topic/functions/)
 
   - Functions within a shell script is a piece of code or a block of code that perform a particular function that can be reused.
 

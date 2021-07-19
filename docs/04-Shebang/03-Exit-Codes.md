@@ -1,6 +1,6 @@
 # Exit Codes
 
-  - Lets Understand [Exit-Codes](https://kodekloud.com/courses/1029419/lectures/21506385)
+  - Lets understand [Exit-Codes](https://kodekloud.com/topic/exit-codes/)
 
   - In this lecture we will understand the Exit-Codes and different types of Exit Codes.
 

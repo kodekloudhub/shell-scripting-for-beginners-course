@@ -1,6 +1,8 @@
-# Case Statments
+# Case Statements
 
-  - Case statment is used for simplifying mulitple condition check with multiple different choices. 
+  - Lets understand [Case Statement](https://kodekloud.com/topic/case-statements/)
+
+  - Case statement is used for simplifying multiple condition check with multiple different choices. 
   
     ```
     echo "1. Shutdown"

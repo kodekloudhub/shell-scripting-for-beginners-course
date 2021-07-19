@@ -1,5 +1,5 @@
 # Creating your first shell script
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/21505290)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/creating-your-first-shell-script/)
   
 In this section, we will take a look at creating your first shell script.
 

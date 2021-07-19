@@ -1,6 +1,6 @@
 # Labs Case Statement
 
-  Take me to the lab [Case Statement](https://kodekloud.com/courses/1029419/lectures/21506323)
+  - Take me to the lab [Case Statement](https://kodekloud.com/topic/labs-case-statements/)
 
 
   1. Solution is given below

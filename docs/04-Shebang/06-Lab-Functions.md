@@ -1,6 +1,6 @@
 # Lab Functions
 
-  - Take me to the [Lab](https://kodekloud.com/courses/1029419/lectures/22172749)
+  - Take me to the [Lab](https://kodekloud.com/topic/lab-functions/)
 
   1. Solution is give below
 

@@ -1,6 +1,6 @@
 # While Loop
 
-  - Help me to understand the [while loop](https://kodekloud.com/courses/1029419/lectures/21506314)
+  - Help me to understand the [while loop](https://kodekloud.com/topic/loops-while/)
 
   - While loop works just like the for loop, except theat it executes the loop as long as the condition is true.
   - Execute a command or a set of commands multiple times but you are not sure how many times.

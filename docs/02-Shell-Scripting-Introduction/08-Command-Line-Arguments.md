@@ -1,5 +1,5 @@
 # Command Line Arguments
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/21505718)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/command-line-arguments/)
   
 In the section, we will take a look at "Command Line Arguments" in shell scripts.
 
