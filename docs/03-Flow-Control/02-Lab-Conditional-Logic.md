@@ -41,6 +41,7 @@
         echo "Directory exists"
       else
         echo "Directory not found"
+      fi
       ```
       </details>
 
@@ -53,7 +54,8 @@
       then
           echo $1
       else
-          echo $2     
+          echo $2
+      fi
       ```
       </details>
 
