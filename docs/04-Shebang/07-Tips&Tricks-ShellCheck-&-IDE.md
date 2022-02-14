@@ -1,6 +1,6 @@
 # Tipes & Tricks - ShellCheck & IDE
 
-  - Lets Understand [Functions](https://kodekloud.com/courses/1029419/lectures/21506444)
+  - Lets understand about [shellcheck and IDE](https://kodekloud.com/topic/tips-tricks-shellcheck-ide/)
 
   - VIM provides syntax highlighting, which helps in catching any syntax error in your shell scripts.
 

@@ -1,6 +1,6 @@
 # Loops
 
-  - Loops is used for repetative tasks, lets understand how it works in this [lecture](https://kodekloud.com/courses/1029419/lectures/21506298)
+  - Loops is used for repetative tasks, lets understand how it works in this [lecture](https://kodekloud.com/topic/loops-for/)
 
   ### Type of Loops
 

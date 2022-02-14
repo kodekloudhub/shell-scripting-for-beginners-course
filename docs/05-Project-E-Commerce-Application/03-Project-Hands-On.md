@@ -1,5 +1,6 @@
 # Project Hands On
-  - Take me to [Practice Test](https://kodekloud.com/courses/shell-scripts-for-beginners/lectures/22122812)
+
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-project-2/)
   - Take me to [Automation Script](deploy-ecommerce-application.sh)
   
 #### Solutions to the practice test
@@ -23,4 +24,4 @@
   </details>
  
  
-#### Take me to [Practice Test - Solution](https://kodekloud.com/courses/1029419/lectures/22122813)
+#### Take me to [Practice Test - Solution](https://kodekloud.com/topic/solution-project-ecommerce-application/)

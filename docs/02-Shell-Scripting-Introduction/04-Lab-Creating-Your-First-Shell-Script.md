@@ -1,5 +1,5 @@
 # Lab - Creating your first shell script
-  - Take me to [Practice Test](https://kodekloud.com/courses/1029419/lectures/21505474)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-creating-your-first-shell-script/)
   
 Solutions to the practice test
 - Create a script

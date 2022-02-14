@@ -1,6 +1,6 @@
 # Lab Conditional Logic
 
-  - Take me to the [Lab](https://kodekloud.com/courses/1029419/lectures/21506295)
+  - Take me to the [Lab](https://kodekloud.com/topic/lab-conditional-logic/)
 
 
   1. See the solution

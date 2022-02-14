@@ -1,5 +1,5 @@
 # Lab - Command Line Arguements and Read Inputs
-  - Take me to [Practice Test](https://kodekloud.com/courses/1029419/lectures/21505834)
+  - Take me to [Practice Test](https://kodekloud.com/topic/lab-command-line-arguments-inputs/)
  
 Solutions to the practice test - Command Line Arguments and Read Inputs
 - Check the answer file at /tmp/assets/create-and-launch-rocket-answer

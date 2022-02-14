@@ -1,5 +1,5 @@
 # Arithmetic Operations 
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/21505856)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/arithmetic-operations/)
   
 In this section, we will take a look at "Arithmetic Operations"
 - There are different methods with which we can perform arithemetic operations

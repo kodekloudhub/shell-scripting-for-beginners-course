@@ -1,6 +1,6 @@
 # Lab Exit-Codes
 
-  - Take me to the [Lab](https://kodekloud.com/courses/1029419/lectures/21506440)
+  - Take me to the [Lab](https://kodekloud.com/topic/lab-exit-codes/)
 
   1. Solution is given below
 

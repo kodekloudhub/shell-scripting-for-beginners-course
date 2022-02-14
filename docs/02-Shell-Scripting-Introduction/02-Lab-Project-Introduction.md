@@ -1,5 +1,5 @@
 # Lab - Project Introduction
-- Take me to [Practice Test](https://kodekloud.com/courses/1029419/lectures/21505124)
+- Take me to [Practice Test](https://kodekloud.com/topic/lab-project-introduction/)
 
 #### Solutions to the Practice test - Project Introduction
 - Rocket commands have been configured on your system. Let's test it out. Run the rocket-ls command to list all rockets.

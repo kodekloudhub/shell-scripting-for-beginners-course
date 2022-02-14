@@ -1,5 +1,5 @@
   # Shell Script Project Introduction
-   - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/21505100)
+   - Take me to [Video Tutorial](https://kodekloud.com/topic/project-introduction/)
   
      ![lseq](../../images/lseq.PNG)
       

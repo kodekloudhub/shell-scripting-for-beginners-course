@@ -1,5 +1,5 @@
 # Read Inputs
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/21505723)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/read-inputs/)
   
 In this section, lets take a look at prompting for inputs in a shell script
 

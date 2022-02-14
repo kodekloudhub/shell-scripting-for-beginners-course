@@ -1,6 +1,6 @@
 # Lab Shebang
 
-  - Take me to the [Lab](https://kodekloud.com/courses/1029419/lectures/21506380)
+  - Take me to the [Lab](https://kodekloud.com/topic/lab-shebang/)
 
 
   1. Solution is given below

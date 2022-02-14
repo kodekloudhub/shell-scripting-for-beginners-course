@@ -1,5 +1,5 @@
 # Course Introduction
-  - Take me to [Video Tutorial](https://kodekloud.com/courses/1029419/lectures/21484893)
+  - Take me to [Video Tutorial](https://kodekloud.com/topic/course-introduction-2/)
 
 #### Shell scripts in linux are easy to use time saving solution for automating repetative (or) complex set of tasks in a system administrator daily life.
 

@@ -1,6 +1,6 @@
 # Shebang
 
-  - Lets Understand [Shebang](https://kodekloud.com/courses/1029419/lectures/21506378)
+  - Lets understand [Shebang](https://kodekloud.com/topic/shebang/)
 
   - In this lecture we will understand the types of shell, **`Bourne Shell(sh)`**, **`Bourne again Shell(bash)`**, **`C Shell`**, **`Z Shell`** etc..
 
