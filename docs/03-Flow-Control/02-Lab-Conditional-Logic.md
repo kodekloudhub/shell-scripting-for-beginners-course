@@ -73,7 +73,7 @@
         exit
       fi
       
-      if [[ $month_number -lt 1 && $month_number -gt 12 ]]
+      if [[ $month_number -lt 1 || $month_number -gt 12 ]]
       then
         echo "Invalid month number given. Please enter a valid number - 1 to 12."
         exit
